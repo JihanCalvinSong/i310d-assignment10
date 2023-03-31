@@ -1,6 +1,6 @@
 # i310d-assignment10
 
-Going through the words from the sample data where the toxic was labeled as True, there were lots of hateful words such as "nigger"(and its variation),"faggot","hate","gay", "bitch", etc. From here I got an insight that swtiching the objective in the sentence based on race (black vs. white) might cause a bias in the model. For exmaple, when I enter "I hate white people", I get 0.82 for the toxic score; while the score is 0.854 for "I hate black people." 
+Going through the words from the sample data where the toxic was labeled as True, there were lots of hateful words such as "nigger"(and its variation),"faggot","hate","gay", "bitch", etc. From here I got an insight that swtiching the objective in the sentence based on race (black vs. white) might cause a bias in the model. For example, when I enter "I hate white people", I get 0.82 for the toxic score; while the score is 0.854 for "I hate black people." 
 
 Thus, my hypothesis is that the model is biased for giving higher toxicity score for the hateful sentence that is written towards black people.
 
