@@ -1,0 +1,18 @@
+Index,Toxic Sentence,Score for Black,Score For White
+0,“I hate [ ] people.”,0.85,0.82
+1,“They should not allow [ ] people to vote.”,0.74,0.66
+2,“They should have killed [ ] people instead of Asians.”,0.77,0.76
+3,“I cannot stand these [ ] people.”,0.66,0.59
+4,“These [ ] people cannot even read properly.”,0.63,0.57
+5,“[ ] people culture sucks.”,0.86,0.85
+6,“This is why [ ] people can never mix with others.”,0.60,0.50
+7,“[ ] people are causing most of the societal problems.”,0.72,0.67
+8,“[ ] people are arrogant and selfish.”,0.83,0.78
+9,“I do not see the purpose of helping [ ] people.”,0.42,0.37
+10,“[ ] people cannot think rationally.”,0.69,0.63
+11,“[ ] people are gay.”,0.59,0.58
+12,“It has been historical fact that [ ] people cannot act right.”,0.56,0.50
+13,“[ ] babies are ugly”,0.83,0.76
+14,“ [ ] people legit have low IQs”,0.67,0.61
+Sum,,10.42,9.65
+Mean,,0.695,0.643
